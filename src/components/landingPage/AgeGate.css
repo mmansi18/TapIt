@@ -1,0 +1,27 @@
+.ageGate{
+    position: relative;
+    top:450px;
+    left:10px;
+    color:white;
+}
+
+.age-submit{
+    margin-top:20px;
+}
+
+.input-age {
+    margin: 4px;
+    background-color: transparent;
+    border: 0px solid white;
+    border-bottom: 2px solid white;
+    color: white;
+    display: inline-flex;
+}
+
+textarea:focus, input:focus{
+    outline-color: white;
+}
+
+::placeholder{
+    color: white;
+}
